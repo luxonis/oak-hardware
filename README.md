@@ -9,6 +9,12 @@ This repository contains OAK Open Source Hardware designs, including Altium desi
 
 The designs are Dual Licensed under [MIT](LICENSE) or [KiCad Libraries License](LICENSE.KiCad.md)
 
+# NEW! - OAK 4
+
+## [OAK 4 FFC | BK3498](BK3498_OAK-4-FFC)
+
+OAK 4 FFC (`OAK-4-FFC`) is an OAK 4 SOM (`OAK-4-SOM`) carrier design with five FFC camera interfaces, a separate BK6970 PoE power board, and Altium libraries for the three SOM connectors. See the [OAK 4 FFC README](BK3498_OAK-4-FFC/README.md) for design resources, interface mapping, and current release limitations.
+
 # POE Designs
 
 ## [OAK-D-POE | SJ2088POE](https://github.com/luxonis/oak-hardware/tree/master/SJ2088POE_PoE_Board)
